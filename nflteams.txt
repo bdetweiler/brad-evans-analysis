@@ -1,0 +1,47 @@
+AFC-NORTH
+Baltimore Ravens
+Cincinnati Bengals
+Cleveland Browns
+Pittsburgh Steelers
+
+AFC-SOUTH
+Houston Texans
+Indianapolis Colts
+Jacksonville Jaguars
+Tennessee Titans
+
+AFC-EAST
+Buffalo Bills
+Miami Dolphins
+New England Patriots
+New York Jets
+
+AFC-WEST
+Denver Broncos
+Kansas City Chiefs
+Oakland Raiders
+San Diego Chargers
+
+NFC-NORTH
+Chicago Bears
+Detroit Lions
+Green Bay Packers
+Minnesota Vikings
+
+NFC-SOUTH
+Atlanta Falcons
+Carolina Panthers
+New Orleans Saints
+Tampa Bay Buccaneers
+
+NFC-EAST
+Dallas Cowboys
+New York Giants
+Philadelphia Eagles
+Washington Redskins
+
+NFC-WEST
+Arizona Cardinals
+San Francisco 49ers
+Seattle Seahawks
+St. Louis Rams
