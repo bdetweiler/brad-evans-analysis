@@ -82817,7 +82817,7 @@ Fnan
 sg22
 Fnan
 sg23
-S'Cecil Shorts III'
+S'Cecil Shorts'
 p10637
 sg25
 Fnan
